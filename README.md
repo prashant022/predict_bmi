@@ -1,7 +1,7 @@
 # predict_bmi
 Given a human being photograph , predict the bmi
 
-This is work in progress , iam in the final phase of development, almost there !!
+This is work in progress , iam in the final phase of development, almost there !! will commit to the repo soon
 
 
 Inspiration :
